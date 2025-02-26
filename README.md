@@ -89,5 +89,4 @@ Contact
 For questions or feedback, feel free to reach out:
 
 Your Name: karyan-01@outlook.com
-
-GitHub: your-username
+GitHub: JoraKaryan
